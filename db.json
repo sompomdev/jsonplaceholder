@@ -1,0 +1,907 @@
+[
+    {
+      "id": "62a6d8a33dc8b18b19f15d65",
+      "equipmentCode": "",
+      "category": "ring",
+      "seller": "HokMok Store",
+      "color": "orange",
+      "iconName": "_weapon_ring_11",
+      "costPerUnit": "2",
+      "title": "Ring sheep",
+      "description": "Make enemy into sheep for 60 seconds and deal damage 40% every 5 seconds.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-20T03:40:56.146Z"
+    },
+    {
+      "id": "62a6e9a43dc8b18b19f16d22",
+      "equipmentCode": "3",
+      "category": "weapon",
+      "seller": "HokMok Store",
+      "color": "orange",
+      "iconName": "sword_armagon",
+      "costPerUnit": "2",
+      "title": "Sword sheep",
+      "description": "Sheep enemy 5 seconds in 10 taps until 120 seconds.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-21T06:46:45.701Z"
+    },
+    {
+      "id": "62a6f1263dc8b18b19f175ac",
+      "equipmentCode": "",
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "rouge",
+      "iconName": "_weapon_potion_07",
+      "costPerUnit": "2.1",
+      "title": "Potion sheep",
+      "description": "Sheep enemy now for 10 seconds.",
+      "targetSelect": [
+        "menu"
+      ],
+      "level": 1,
+      "equipmentType": "menu",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T04:14:21.542Z"
+    },
+    {
+      "id": "62a6fd5d66db3fd6744010de",
+      "equipmentCode": "18",
+      "category": "weapon",
+      "seller": "HokMok Store",
+      "color": "orange",
+      "iconName": "Wp_2001",
+      "costPerUnit": "2.1",
+      "title": "Sword poison",
+      "description": "Poison enemy hp 20% in 10 taps until 200 taps.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T02:07:23.112Z"
+    },
+    {
+      "id": "62a6fe7c66db3fd674401244",
+      "equipmentCode": "",
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "rouge",
+      "iconName": "_weapon_potion_07",
+      "costPerUnit": "2.1",
+      "title": "Potion poison",
+      "description": "Poison enemy hp 50% now.",
+      "targetSelect": [
+        "menu"
+      ],
+      "level": 1,
+      "equipmentType": "menu",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T03:48:40.590Z"
+    },
+    {
+      "id": "62a7066b66db3fd6744019fc",
+      "equipmentCode": "3",
+      "category": "weapon",
+      "seller": "HokMok Store",
+      "color": "orange",
+      "iconName": "sword_old",
+      "costPerUnit": "2",
+      "title": "Hero big Sword",
+      "description": "Increase hero size and power.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-23T08:14:37.261Z"
+    },
+    {
+      "id": "62a8070b66db3fd674405449",
+      "equipmentCode": "",
+      "category": "ring",
+      "seller": "HokMok Store",
+      "color": "orange",
+      "iconName": "_weapon_ring_14",
+      "costPerUnit": "1.5",
+      "title": "Critical hit chance+",
+      "description": "Increase critical hit chance 200% forever.",
+      "targetSelect": [
+        "hero",
+        "support"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-14T04:04:32.929Z"
+    },
+    {
+      "id": "62a8093366db3fd674405787",
+      "equipmentCode": "",
+      "modes": [
+        "Battle"
+      ],
+      "equipmentType": "menu",
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "purple",
+      "iconName": "_weapon_potion_05",
+      "costPerUnit": "2",
+      "title": "Cure freeze",
+      "description": "Cure from being freeze now battle only.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-14T04:44:26.401Z"
+    },
+    {
+      "id": "62a809c166db3fd674405831",
+      "equipmentCode": "",
+      "modes": [
+        "Battle"
+      ],
+      "equipmentType": "menu",
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "purple",
+      "iconName": "_weapon_potion_07",
+      "costPerUnit": "2",
+      "title": "Poison cure",
+      "description": "Cure poison now battle only.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-14T04:46:12.705Z"
+    },
+    {
+      "id": "62a809dd66db3fd674405857",
+      "equipmentCode": "",
+      "modes": [
+        "Battle"
+      ],
+      "equipmentType": "menu",
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "purple",
+      "iconName": "_weapon_potion_08",
+      "costPerUnit": "2",
+      "title": "Sheep cure",
+      "description": "Cure sheep now battle only.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-21T03:52:45.762Z"
+    },
+    {
+      "id": "62a80a5566db3fd67440595f",
+      "equipmentCode": "",
+      "equipmentType": "gameplay",
+      "category": "shield",
+      "seller": "HokMok Store",
+      "color": "purple",
+      "iconName": "assets_0029_Group-4",
+      "costPerUnit": "2",
+      "title": "Freeze Armor",
+      "description": "Protect from being freeze 10 times.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-28T08:49:49.154Z"
+    },
+    {
+      "id": "62a80aaa66db3fd674405a12",
+      "equipmentCode": "",
+      "equipmentType": "gameplay",
+      "category": "ring",
+      "seller": "HokMok Store",
+      "color": "purple",
+      "iconName": "_weapon_ring_12",
+      "costPerUnit": "2",
+      "title": "Poison cure ring",
+      "description": "Protect from being Poison 10 times.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-14T04:50:06.263Z"
+    },
+    {
+      "id": "62a80acc66db3fd674405a45",
+      "equipmentCode": "",
+      "equipmentType": "gameplay",
+      "category": "ring",
+      "seller": "HokMok Store",
+      "color": "purple",
+      "iconName": "_weapon_ring_13",
+      "costPerUnit": "2",
+      "title": "Sheep cure ring",
+      "description": "Protect from being Sheep 10 times.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-28T08:50:25.686Z"
+    },
+    {
+      "id": "62a814fc66db3fd6744061d4",
+      "equipmentCode": "",
+      "equipmentType": "gameplay",
+      "category": "boots",
+      "seller": "HokMok Store",
+      "color": "orange",
+      "iconName": "assets_0012_Group-18",
+      "costPerUnit": "2",
+      "title": "DPS glove",
+      "description": "Increase global dps 900% forever.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-15T08:25:10.473Z"
+    },
+    {
+      "id": "62a815ec66db3fd6744063c3",
+      "equipmentCode": "",
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "orange",
+      "iconName": "_weapon_potion_08",
+      "costPerUnit": "2",
+      "title": "DPS Power potion",
+      "description": "Increase global dps 1000% in 50 seconds.",
+      "targetSelect": [
+        "team"
+      ],
+      "level": 1,
+      "equipmentType": "menu",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T02:27:03.705Z"
+    },
+    {
+      "id": "62a8288966db3fd67440765c",
+      "equipmentCode": "56",
+      "category": "weapon",
+      "seller": "HokMok Store",
+      "color": "orange",
+      "iconName": "Wp_2042",
+      "costPerUnit": "2",
+      "title": "Sword of DPS",
+      "description": "Increase global dps 3000% forever.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-21T06:59:45.596Z"
+    },
+    {
+      "id": "62a8293166db3fd6744077b9",
+      "equipmentCode": "",
+      "modes": [
+        "Battle"
+      ],
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "rouge",
+      "iconName": "_weapon_potion_07",
+      "costPerUnit": "2.1",
+      "title": "Freeze pot",
+      "description": "Freeze enemy now battle only.",
+      "targetSelect": [
+        "menu"
+      ],
+      "level": 1,
+      "equipmentType": "menu",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T06:27:42.166Z"
+    },
+    {
+      "id": "62a82a1666db3fd674407967",
+      "equipmentCode": "3",
+      "category": "weapon",
+      "seller": "HokMok Store",
+      "color": "orange",
+      "iconName": "sword_02",
+      "costPerUnit": "2",
+      "title": "Freeze Attack Sword",
+      "description": "Freeze enemy 5 seconds in 10 taps until 200 taps.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-28T04:52:20.972Z"
+    },
+    {
+      "id": "62a82aba66db3fd674407a85",
+      "equipmentCode": "",
+      "category": "scroll",
+      "seller": "HokMok Store",
+      "color": "brown",
+      "iconName": "_weapon_spell_04",
+      "costPerUnit": "2.2",
+      "title": "Gold Earning Sroll",
+      "description": "Increase gold drop 300% in 50 seconds.",
+      "targetSelect": [
+        "hero",
+        "support",
+        "pet"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-15T02:36:23.305Z"
+    },
+    {
+      "id": "62a82b9566db3fd674407c4b",
+      "equipmentCode": "",
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "rouge",
+      "iconName": "_weapon_potion_07",
+      "costPerUnit": "2.1",
+      "title": "Gold pot",
+      "description": "Gold rain 2000% now.",
+      "targetSelect": [
+        "menu"
+      ],
+      "level": 1,
+      "equipmentType": "menu",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T03:39:36.353Z"
+    },
+    {
+      "id": "62a82c9266db3fd674407e39",
+      "equipmentCode": "",
+      "equipmentType": "gameplay",
+      "category": "shield",
+      "color": "green",
+      "iconName": "SH2D_30002",
+      "modes": [
+        "Battle"
+      ],
+      "seller": "HokMok Store",
+      "costPerUnit": "2",
+      "title": "Healing Shield Battle",
+      "description": "Healing hero hp 40% per 3.5 seconds.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-28T08:49:57.732Z"
+    },
+    {
+      "id": "62a82d0266db3fd674407f17",
+      "equipmentCode": "",
+      "equipmentType": "gameplay",
+      "category": "shield",
+      "color": "green",
+      "iconName": "SH2D_30002",
+      "modes": [
+        "Battle"
+      ],
+      "seller": "HokMok Store",
+      "costPerUnit": "2",
+      "title": "Healing when got hit",
+      "description": "Healing hero hp 10% per hit.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-15T06:23:08.294Z"
+    },
+    {
+      "id": "62a82e0766db3fd674408122",
+      "equipmentCode": "",
+      "equipmentType": "gameplay",
+      "category": "ring",
+      "seller": "HokMok Store",
+      "color": "green",
+      "iconName": "_weapon_ring_12",
+      "costPerUnit": "2",
+      "title": "Ring Hp Cap++",
+      "description": "Increase Hp 100% in 50 seconds.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-28T08:50:01.611Z"
+    },
+    {
+      "id": "62a82fcb66db3fd674408404",
+      "equipmentCode": "",
+      "equipmentType": "menu",
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "green",
+      "iconName": "_weapon_potion_04",
+      "costPerUnit": "2",
+      "title": "Potion Hp Cap++",
+      "description": "Increase Hp 100% in 50 seconds.",
+      "targetSelect": [
+        "team"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T06:18:30.309Z"
+    },
+    {
+      "id": "62a8320166db3fd674408806",
+      "equipmentCode": "",
+      "equipmentType": "menu",
+      "category": "potion",
+      "color": "green",
+      "iconName": "_weapon_potion_04",
+      "modes": [
+        "Battle"
+      ],
+      "seller": "HokMok Store",
+      "costPerUnit": "1",
+      "title": "Refill Hp Potion",
+      "description": "Refill Hp 100% now. In battle mode.",
+      "targetSelect": [
+        "hero",
+        "support"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T06:17:17.634Z"
+    },
+    {
+      "id": "62a832c466db3fd674408989",
+      "equipmentCode": "",
+      "equipmentType": "gameplay",
+      "category": "ring",
+      "seller": "HokMok Store",
+      "color": "blue",
+      "iconName": "_weapon_ring_14",
+      "costPerUnit": "2",
+      "title": "Ring Mana Cap++",
+      "description": "Increase mana cap 40% until 100 seconds.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-28T04:52:06.563Z"
+    },
+    {
+      "id": "62a8330766db3fd674408a2f",
+      "equipmentCode": "",
+      "equipmentType": "menu",
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "blue",
+      "iconName": "_weapon_potion_06",
+      "costPerUnit": "2",
+      "title": "Potion Mana Cap++",
+      "description": "Increase mana cap 40% in 50 seconds.",
+      "targetSelect": [
+        "team"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T06:23:11.434Z"
+    },
+    {
+      "id": "62a8336666db3fd674408bfc",
+      "equipmentCode": "",
+      "equipmentType": "gameplay",
+      "category": "shield",
+      "color": "blue",
+      "iconName": "SH2D_30002",
+      "seller": "HokMok Store",
+      "costPerUnit": "2",
+      "title": "Mana shield rate++",
+      "description": "Increase mana speed generation 5000%.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-17T03:20:03.977Z"
+    },
+    {
+      "id": "62a8348266db3fd674408eff",
+      "equipmentCode": "",
+      "equipmentType": "menu",
+      "category": "potion",
+      "color": "blue",
+      "iconName": "_weapon_potion_06",
+      "seller": "HokMok Store",
+      "costPerUnit": "2",
+      "title": "Refill mana potion",
+      "description": "Refill mana 200% now.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T06:44:46.513Z"
+    },
+    {
+      "id": "62a8344466db3fd674408d9a",
+      "equipmentCode": "",
+      "equipmentType": "menu",
+      "category": "potion",
+      "color": "blue",
+      "iconName": "_weapon_potion_06",
+      "seller": "HokMok Store",
+      "costPerUnit": "2",
+      "title": "Mana potion rate++",
+      "description": "Increase mana speed generation 3000%.",
+      "targetSelect": [
+        "team"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T06:52:48.915Z"
+    },
+    {
+      "id": "62a83a1366db3fd674409d29",
+      "equipmentCode": "18",
+      "category": "weapon",
+      "seller": "HokMok Store",
+      "color": "green",
+      "iconName": "Wp_2001",
+      "costPerUnit": "2",
+      "title": "Pet active time",
+      "description": "Increase pet active time.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-28T04:56:10.757Z"
+    },
+    {
+      "id": "62a83b4266db3fd67440a005",
+      "equipmentCode": "",
+      "modes": [
+        "Battle",
+        "Normal"
+      ],
+      "category": "ring",
+      "seller": "HokMok Store",
+      "color": "green",
+      "iconName": "_weapon_ring_12",
+      "costPerUnit": "2",
+      "title": "Boost powerup ring",
+      "description": "Boost powerup.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-14T07:42:00.266Z"
+    },
+    {
+      "id": "62a83bac66db3fd67440a254",
+      "equipmentCode": "",
+      "modes": [
+        "Battle",
+        "Normal"
+      ],
+      "category": "ring",
+      "seller": "HokMok Store",
+      "color": "green",
+      "iconName": "_weapon_ring_12",
+      "costPerUnit": "2",
+      "title": "Support speed ring",
+      "description": "Support speed ring",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-14T07:41:51.093Z"
+    },
+    {
+      "id": "62a83c0b66db3fd67440a48a",
+      "equipmentCode": "",
+      "equipmentType": "menu",
+      "category": "potion",
+      "color": "purple",
+      "iconName": "_weapon_potion_06",
+      "modes": [
+        "Battle"
+      ],
+      "seller": "HokMok Store",
+      "costPerUnit": "2",
+      "title": "Revive support potion",
+      "description": "Revive a support now.",
+      "targetSelect": [
+        "support"
+      ],
+      "level": 1,
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T07:13:12.388Z"
+    },
+    {
+      "id": "62a83c7e66db3fd67440a613",
+      "equipmentCode": "",
+      "category": "ring",
+      "seller": "HokMok Store",
+      "color": "orange",
+      "iconName": "_weapon_ring_12",
+      "costPerUnit": "2",
+      "title": "Auto Tap",
+      "description": "Enable auto tap 10 taps per second in 50 seconds.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-24T01:03:04.982Z"
+    },
+    {
+      "id": "62a8410a66db3fd67440af06",
+      "equipmentCode": "",
+      "modes": [
+        "Battle",
+        "Normal"
+      ],
+      "category": "ring",
+      "seller": "HokMok Store",
+      "color": "green",
+      "iconName": "_weapon_ring_12",
+      "costPerUnit": "2",
+      "title": "Healing Ring Duration",
+      "description": "Increase hp active hero and support 10% in 3 seconds until 150 seconds.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-14T08:10:58.710Z"
+    },
+    {
+      "id": "62a8427866db3fd67440b37c",
+      "equipmentCode": "",
+      "category": "shield",
+      "seller": "HokMok Store",
+      "color": "green",
+      "iconName": "SH2D_30002",
+      "costPerUnit": "2",
+      "title": "Healing Shield Impact",
+      "description": "Increase hp active hero and support 10% in 15 taps until 20 times.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-14T08:13:57.882Z"
+    },
+    {
+      "id": "62a8432f66db3fd67440b45b",
+      "equipmentCode": "18",
+      "category": "weapon",
+      "seller": "HokMok Store",
+      "color": "green",
+      "iconName": "Wp_2001",
+      "costPerUnit": "2",
+      "title": "Healing Sword Taps",
+      "description": "Increase hp active hero and support 10% in 15 taps until 200 taps.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-16T10:36:44.329Z"
+    },
+    {
+      "id": "62a8439c66db3fd67440b4f0",
+      "equipmentCode": "",
+      "category": "ring",
+      "seller": "HokMok Store",
+      "color": "rouge",
+      "iconName": "_weapon_ring_11",
+      "costPerUnit": "2",
+      "title": "Holding Tap",
+      "description": "Enable holding tap 10 taps per second in 50 seconds.",
+      "targetSelect": [
+        "hero"
+      ],
+      "level": 1,
+      "equipmentType": "gameplay",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-14T08:16:02.609Z"
+    },
+    {
+      "id": "62a8440366db3fd67440b579",
+      "equipmentCode": "",
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "brown",
+      "iconName": "inventory_00",
+      "costPerUnit": "2",
+      "title": "Bag Slot Up",
+      "description": "Increase your inventory 1 slot now.",
+      "targetSelect": [
+        "menu"
+      ],
+      "level": 1,
+      "equipmentType": "menu",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T07:11:52.701Z"
+    },
+    {
+      "id": "62a996a666db3fd67441d448",
+      "equipmentCode": "",
+      "modes": [
+        "Battle",
+        "Normal"
+      ],
+      "category": "potion",
+      "seller": "HokMok Store",
+      "color": "rouge",
+      "iconName": "_weapon_potion_07",
+      "costPerUnit": "2.1",
+      "title": "Freeze pot",
+      "description": "Freeze enemy now battle only.",
+      "targetSelect": [
+        "menu"
+      ],
+      "level": 1,
+      "equipmentType": "menu",
+      "gameLevel": {
+        "levelStart": -1,
+        "levelEnd": -1
+      },
+      "updatedAt": "2022-06-29T06:56:32.156Z"
+    }
+  ]
