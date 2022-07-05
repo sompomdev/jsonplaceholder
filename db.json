@@ -1,44 +1,14 @@
 [
     {
-      "id": "62a6d8a33dc8b18b19f15d65",
-      "equipmentCode": "",
-      "category": "ring",
-      "seller": "HokMok Store",
-      "color": "orange",
-      "iconName": "_weapon_ring_11",
-      "costPerUnit": "2",
-      "title": "Ring sheep",
-      "description": "Make enemy into sheep for 60 seconds and deal damage 40% every 5 seconds.",
-      "targetSelect": [
-        "hero"
-      ],
-      "level": 1,
-      "equipmentType": "gameplay",
-      "gameLevel": {
-        "levelStart": -1,
-        "levelEnd": -1
-      },
-      "updatedAt": "2022-06-20T03:40:56.146Z"
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "id": "62a6e9a43dc8b18b19f16d22",
-      "equipmentCode": "3",
-      "category": "weapon",
-      "seller": "HokMok Store",
-      "color": "orange",
-      "iconName": "sword_armagon",
-      "costPerUnit": "2",
-      "title": "Sword sheep",
-      "description": "Sheep enemy 5 seconds in 10 taps until 120 seconds.",
-      "targetSelect": [
-        "hero"
-      ],
-      "level": 1,
-      "equipmentType": "gameplay",
-      "gameLevel": {
-        "levelStart": -1,
-        "levelEnd": -1
-      },
-      "updatedAt": "2022-06-21T06:46:45.701Z"
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
     }
-]
+  ]
